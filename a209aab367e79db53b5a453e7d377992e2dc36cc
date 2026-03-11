@@ -1,0 +1,59 @@
+[33mcommit a209aab367e79db53b5a453e7d377992e2dc36cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Thu Mar 5 20:38:08 2026 +0100
+
+    main: dodan meta author tag
+
+[33mcommit deef67037d796fae31510e364c9b6337543e0df6[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Thu Mar 5 20:30:20 2026 +0100
+
+    dev: dodan placeholder za galeriju
+
+[33mcommit c7fad96daa9244c18cfe01472ecf48803759c70d[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Thu Mar 5 20:28:50 2026 +0100
+
+    dev: dodana sekcija studijski programi
+
+[33mcommit 3b9be1751fdd917ce8a11d2c71a9928a9d35ef3d[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 20:33:06 2026 +0100
+
+    dodani main sadrzaj i footer
+
+[33mcommit 944a534ff70da49570ba27fb09407d7a24b02d57[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 20:30:28 2026 +0100
+
+    dodan CSS, stiliziran header
+
+[33mcommit 575f1913c89f302fef192aa1a9967e034c9c0138[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 20:28:07 2026 +0100
+
+    dodan header s navigacijom
+
+[33mcommit fcbfbc7738d9d0f58d911cf676ccb44ffac91d09[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 20:25:36 2026 +0100
+
+    inicijalni HTML skeleton
+
+[33mcommit 2547525581a980a489ed92592f322c6e4ac22dec[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 17:12:05 2026 +0100
+
+    dodani main sadrzaj i footer
+
+[33mcommit 239cd6565d43244cc2a52f368f3a2b32e19e81ba[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 17:10:22 2026 +0100
+
+    dodan CSS, stiliziran header
+
+[33mcommit 3f2429e0cc220bdb0bd4f2010ef1cfc13ff5c218[m
+Author: Amel <amel.tokic@fet.ba>
+Date:   Wed Mar 4 17:07:52 2026 +0100
+
+    inicijalni HTML skeleton
